@@ -1,5 +1,5 @@
 # Little-Red-Riding-Hood
-This is a Unity game project made for Xi'an Jiaotong-Liverpool University's 2021 Summer Undergraduate Research Fellowship.
+This is a Unity game project made for Xi'an Jiaotong-Liverpool University's 2021 Summer Undergraduate Research Fellowship, so it is only for educational and non-commercial use.
 I am this game's director, graphic designer, scene designer, and programmer.
 The project itself is made with Unity version 2020.1.17f1c1, and I collaborated with a partner of the research program in coding for it.
 
