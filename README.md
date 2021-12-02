@@ -4,7 +4,7 @@ I am this game's director, graphic designer, scene designer, and programmer.
 The project itself is made with Unity version 2020.1.17f1c1, and I collaborated with my research partner in coding for it.
 
 The codes right under the "Little Red Riding Hood/Assests" folder (not in its sub-paths) and the "Little Red Riding Hood/Assests/TestFolder" are my work,which you can feel free to use.
-However, codes in other paths, such as "Little Red Riding Hood/Assests/Scripts", are not my work, and their credits should go to their honoured owners (my research partner or providers of the included Unity packages).
+However, codes in other paths, such as "Little Red Riding Hood/Assests/Scripts", are not my work, and their credits should go to their honoured owners (possibly my research partners or providers of the included Unity packages).
 
 The members who have contributed to this game and the research program about it were listed in the game's outro.
 
